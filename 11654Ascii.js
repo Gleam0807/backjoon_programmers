@@ -6,7 +6,7 @@ let rl = readline.createInterface({
 
 rl.on('line', function(line) {
 
-    // charCodeAt() : 문자의 아스키코드 반환
+    // charCodeAt() : 문자의 아스키코드를 반환해줍니다.
     console.log(line.charCodeAt());
 
     rl.close();
