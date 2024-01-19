@@ -1,4 +1,4 @@
-import Foundation
+import UIKit
 
 func solution(_ price:Int) -> Int {
     switch price {
